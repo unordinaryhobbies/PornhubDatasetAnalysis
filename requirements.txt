@@ -5,3 +5,4 @@ ipython==7.25.0
 aiohttp==3.7.4.post0
 nest-asyncio==1.5.1
 markovify==0.9.4 
+wordcloud==1.8.1
