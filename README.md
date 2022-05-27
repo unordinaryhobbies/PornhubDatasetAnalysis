@@ -24,3 +24,5 @@ Dataset from [Pornhub](https://www.pornhub.com/files/pornhub.com-db.zip): Contai
 ![img](https://github.com/daeisbae/PornhubDatasetAnalysis/blob/main/samples/output9.png)
 ![img](https://github.com/daeisbae/PornhubDatasetAnalysis/blob/main/samples/output10.png)
 ![img](https://github.com/daeisbae/PornhubDatasetAnalysis/blob/main/samples/output11.png)
+![img](https://github.com/daeisbae/PornhubDatasetAnalysis/blob/main/samples/output12.png)
+![img](https://github.com/daeisbae/PornhubDatasetAnalysis/blob/main/samples/output13.png)
