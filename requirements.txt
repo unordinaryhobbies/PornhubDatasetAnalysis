@@ -2,7 +2,8 @@ pandas==1.4.0
 matplotlib==3.4.3
 seaborn==0.11.2
 ipython==7.25.0
-aiohttp==3.7.4.post0
+aiohttp==3.8.1
 nest-asyncio==1.5.1
 markovify==0.9.4 
 wordcloud==1.8.1
+plotly==5.8.0
